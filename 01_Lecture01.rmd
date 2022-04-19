@@ -1,0 +1,201 @@
+# INTRODUCTION AND MEANING OF INTELLECTUAL PROPERTY  
+
+Property refers to wealth or valuable things earned by a person. It is
+estimated in terms of land, house, garden, industries, animals, gold,
+money, etc. accumulated by a person. Property helps a person to lead a
+better quality of life in the society. Valuable belongings of a person
+can be of two types:-
+
+a)  [Immovable property]{.ul} -- which cannot be moved from one place to
+    another. Eg. Land, Buildings, gardens.
+
+b)  [Movable property]{.ul} -- which can be easily shifted from one
+    place to another. Eg. Animals, furniture, machinery, gold, diamond,
+    money, etc. These are also protected by public laws.
+
+## INTELLECTUAL PROPERTY  
+
+A product / process/ idea which is the outcome of the brain of a person
+and can be used on commercial scale for the benefit of humankind is
+called Intellectual Property. It refers to the creations of the mind,
+inventions, literary and artistic works, symbols, names, images and
+designs used on commercial scale.
+
+## FEATURES OF INTELLECTUAL PROPERTY
+
+-   Measured in terms of new ideas, processes, products, inventions and
+    innovations developed by a person
+
+-   It requires a lot of intellectual inputs in terms of thinking,
+    planning and fine tuning of new ideas/products/processes.
+
+-   It requires considerable amount of funds and other resources to
+    develop new products/processes.
+
+-   It can be copied, reproduced and used by others resulting in the
+    loss to the inventor. Hence protection of Intellectual Property is
+    essential so that the inventor can derive maximum benefits from his
+    invention.
+
+The rights to intangible property that is the product of human intellect
+is referred to Intellectual Property rights. Intellectual Property can
+be protected by copyright, trademark, patent, etc. The holder of the
+Intellectual Property Rights (IPR) is usually the person/persons who
+developed the process/ product, or the organisation that funded it.
+
+## FORMS OF INTELLECTUAL PROPERTY RIGHTS  
+
+Intellectual property rights can be broadly divided into two groups.
+
+### Primary rights  
+Copyrights, Patents, Trademarks, Trade secrets,
+    Trade names, Domain names, Industrial design, Geographical
+    Indications, etc.
+
+### *Sui generis* rights
+This refers to the things of their own
+    kind or things with unique characteristics. This Latin expression
+    literally means "of its own kind". In law, it is a term used to
+    identify a legal classification that exists independently of other
+    categories due to the uniqueness or due to its specific creation of
+    an entitlement or obligation.
+
+> In Intellectual Property there are rights which are known as being
+> '*sui generic*' to owners of a small class of works. Some examples of
+> *sui generic* rights include Database rights, Mask work, Plant
+> Breeder's rights, Farmer's rights, moral rights, Supplementary
+> Protection Certificate (SPC).
+
+## CHOICE OF IPR PROTECTION
+
+An Intellectual Property can often be protected in more than one way.
+Therefore, an inventor has to decide as to which form of protection
+would be the most appropriate for his invention. This decision will be
+influenced by several factors, some of which are summarised below:
+
+1.  [Nature of Intellectual Property]{.ul}
+
+> The type of Intellectual Property would often have the most critical
+> impact on the choice of IPR system. For example, a cell line or a
+> bacterial strain can be kept as a trade secret, a transgene or a plant
+> variety cannot be.
+
+2.  [Pace of Technology Development]{.ul}
+
+> If the pace of technology development in the area of invention is
+> rapid, a trade secret approach would be preferable to patenting.
+
+3.  [Associated costs]{.ul}
+
+> The costs associated with the acquisition and management of
+> Intellectual Property Rights is a very important consideration.
+> Generally, maintaining a trade secret is costlier than obtaining a
+> patent. But, enforcing a patent, however, is often rather costly. In
+> comparison to a patent, acquisition of "Plant Breeder's Rights"(PBR)
+> title is much expensive and complicated.
+
+4.  [Security considerations]{.ul}
+
+> In the long run, it may become exceedingly difficult to maintain a
+> trade secret. Therefore, one may often look for patents to protect an
+> Intellectual Property.
+
+5.  [Need to show inventions]{.ul}
+
+> Patents can be shown to investors for commercialisation of the
+> Intellectual Property without compromising on the Intellectual
+> Property Rights. The same cannot be done for trade secrets.
+
+6.  [Duration of protection]{.ul}
+
+> Patents offer protection for a specified duration, *viz.,* upto 20
+> years. If protection is sought for a longer duration, trade secrets
+> are the only available option. A PBR protection, if available, would
+> be for a longer duration (20 years or more) than that for patents.
+
+7.  [The type of protection sought]{.ul}
+
+> Protection of plant varieties by a patent provides a more rigid
+> control to the inventor (breeder) than does a PBR title.
+
+## MANAGEMENT OF IPR
+
+Intellectual Property Right is ordinarily acquired in the anticipation
+that the concerned intellectual property can be commercialised. A mere
+holding of the IPR does not lead to profit generation from the same.
+Often considerable research and development (R&D) effort may be needed
+to make the intellectual property marketable. For example, following the
+patenting of a new pharmaceutical, say, an antibiotic, it has to undergo
+clinical trials and other tests and clearances before it can be allowed
+to for marketing. In addition, the production process has to be scaled
+up. Therefore, the holder of IPR has to manage the IPR portfolio in such
+a manner so that it generates some profit. IPR management involves the
+following activities:
+
+1\. Transfer of the IPR appropriately and at an optimum value to obtain
+attractive returns for the expense involved in generating the
+intellectual property.
+
+2\. Establishment of collaborative linkages to facilitate exploitation
+of the IPR
+
+3\. Monitoring infringements of the IPR and enforcing one's rights where
+necessary.
+
+4\. Renewal of patents and designs periodically in every country where
+they have been granted.
+
+5\. Quantitative evaluation of factors such as ratio of research and
+development investments and the royalty earned will have to be done
+periodically. This will enable the IPR holder to decide as to which IPRs
+are to be renewed in the different parts of the world.
+
+## BENEFITS FROM IPR
+
+1.  It encourages and safeguards intellectual and artistic creations.
+
+2.  It enables the dissemination of new ideas and technologies quickly
+    and widely; this is achieved by the requirement of disclosure for
+    grant of patents, etc.
+
+3.  It encourages investments in research and development efforts.
+
+4.  It produces consumers with the result of creations and inventions.
+
+5.  It provides increased opportunities of distribution of the above
+    effects across countries in a manner proportionate to the national
+    levels of industrial and economic development.
+
+6.  It promotes healthy competition for invention /innovation among the
+    intellectuals.
+
+7.  It helps in improving the quality of the product.
+
+## PROBLEMS OF IPR
+
+1.  IPR has encouraged monopolies; many takeovers have been motivated by
+    > access to an IPR.
+
+2.  The IPR situation in many cases is quite complicated. Monitoring and
+    > tackling of the IPR aspects of inventions (a) enhance costs (b)
+    > demand time, attention and effort and (c) may act as a
+    > disincentive for R&D efforts.
+
+3.  It is perceived by many as a threat to food security.
+
+4.  It may adversely affect biological diversity and ecological balance.
+
+5.  It may be detrimental to the livelihood of the poor in developing
+    > countries, and small farmers may become dependent on seed
+    > companies.
+
+6.  Indigenous knowledge may be claimed as an invention/ innovation for
+    > profit to companies, and not to those who generated it.
+
+7.  The procedure of registration, particularly patents, is very
+    > lengthy.
+
+8.  It involves a lot of money transaction in registration, renewal and
+    > licensing.
+
+9.  It invites lots of court cases due to infringements.
